@@ -1,6 +1,6 @@
 # 🧑‍💻 React Project App
 
-A simple React (v18+) application built using **Vite** and **Tailwind CSS** that allows users to **register**, **log in**, and **manage their profile information**.  
+A simple Application built using **Vite** and **Tailwind CSS** that allows users to **register**, **log in**, and **manage their profile information**.  
 Users can **edit** their profile and **log out**.
 
 ---
